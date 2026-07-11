@@ -36,12 +36,12 @@ I'm an open-source developer based in the UK, dedicated to building lightweight 
 * **Scripting:** Shell Scripting (Bash/Sh)
 * **GUI Tools:** Zenity, Desktop Integration, GUI System Tools
 
-<!-- -
+---
 
 ### 🤝 Contributing & Feedback
 
 Got an idea to make `upall` even faster, or want to add support for another package manager? Bugs, feature requests, and pull requests are always welcome! Let's make the Linux desktop better together.
--->
+
 ---
 
 ### 🤝 Connect with Me
