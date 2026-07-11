@@ -20,13 +20,14 @@ I'm an open-source developer based in the UK, dedicated to building lightweight 
 * **[upall](https://github.com/cybermaxpower/upall)**  
   A smart, cross-distro system update script that handles APT, Arch (Pacman/AUR), Snaps, and Flatpaks. Update your entire system with a single command.
 
+<!--
 ---
 
 ### 📊 Profile Insights
 
 ![Total Stars](https://img.shields.io/github/stars/cybermaxpower?style=for-the-badge&color=7aa2f7&labelColor=1f2335)
 ![Followers](https://img.shields.io/github/followers/cybermaxpower?style=for-the-badge&color=7aa2f7&labelColor=1f2335)
-
+-->
 ---
 
 ### 🛠️ Tech & Tools
