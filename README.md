@@ -17,6 +17,9 @@ I'm an open-source developer based in the UK, dedicated to building lightweight 
 * **[Flatpak_Uninstaller](https://github.com/cybermaxpower/Flatpak_Uninstaller)**  
   A clean, graphical desktop tool designed to let you easily browse, manage, and safely uninstall Flatpak applications from your Linux system without touching the terminal.
 
+* **[Flatpak-Manager](https://github.com/cybermaxpower/flatpak-manager)**  
+   A lightweight, Zenity-based graphical utility designed to inspect, install, update, and manage Flatpak applications on Linux systems.
+
 * **[upall](https://github.com/cybermaxpower/upall)**  
   A smart, cross-distro system update script that handles APT, Arch (Pacman/AUR), Snaps, and Flatpaks. Update your entire system with a single command.
 
