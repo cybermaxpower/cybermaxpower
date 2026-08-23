@@ -50,7 +50,7 @@ Got an idea to make `upall` even faster, or want to add support for another pack
 ### 🤝 Connect with Me
 
 * **Bluesky:** [@cybermaxpower.bsky.social](https://bsky.app/profile/cybermaxpower.bsky.social)
-* **Twitter/X:** [@CyberMaxpower](https://x.com/CyberMaxpower)
+
 * **GitHub:** [cybermaxpower](https://github.com/cybermaxpower)
 
 *Feel free to explore my repos, drop a star if a tool helps you out, or open an issue if you have suggestions!*
