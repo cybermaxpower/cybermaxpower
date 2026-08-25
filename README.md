@@ -9,19 +9,28 @@ I'm an open-source developer based in the UK, dedicated to building lightweight 
 ### 🚀 Open-Source Projects & Tools
 
 * **[deb-progress-installer](https://github.com/cybermaxpower/deb-progress-installer)**  
+
   A lightweight, right-click context menu utility for Debian-based distros. It leverages **Zenity** to provide a clean, visual progress bar when installing local `.deb` packages so you never have to guess if an install is stuck.
 
 * **[flatpak-progress-installer](https://github.com/cybermaxpower/flatpak-progress-installer)**  
+
   A real-time graphical installer for Flatpak applications that parses terminal data and features dynamic progress bars. Built to bring seamless visual feedback across distros.
 
 * **[Flatpak_Uninstaller](https://github.com/cybermaxpower/Flatpak_Uninstaller)**  
+
   A clean, graphical desktop tool designed to let you easily browse, manage, and safely uninstall Flatpak applications from your Linux system without touching the terminal.
 
 * **[Flatpak-Manager](https://github.com/cybermaxpower/flatpak-manager)**  
+
    A lightweight, Zenity-based graphical utility designed to inspect, install, update, and manage Flatpak applications on Linux systems.
 
-* **[upall](https://github.com/cybermaxpower/upall)**  
+* **[upall](https://github.com/cybermaxpower/upall)**
+  
   A smart, cross-distro system update script that handles APT, Arch (Pacman/AUR), Snaps, and Flatpaks. Update your entire system with a single command.
+
+* **[My MX wallpapers](https://github.com/cybermaxpower/wallpapers/)** 
+
+   Custom wallpapers for the MX Linux desktop.
 
 <!--
 ---
