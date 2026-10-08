@@ -50,6 +50,12 @@ I'm an open-source developer based in the UK, dedicated to building lightweight 
 
 ---
 
+### How I Work with AI & Large Language Models
+
+ I actively leverage AI tools—primarily Google Gemini—as a collaborative coding partner to accelerate development and refine my projects. By crafting detailed, context-aware prompts, I use LLMs to brainstorm features, optimize logic, and help construct user interfaces and workflows (like standard Bash scripts and Zenity or YAD GUIs). While AI helps generate initial ideas, code structures, and troubleshooting hints, I manually test, debug, and review every script to ensure it meets my standards for usability and system stability.
+ 
+---
+
 ### 🤝 Contributing & Feedback
 
 Got an idea to make `upall` even faster, or want to add support for another package manager? Bugs, feature requests, and pull requests are always welcome! Let's make the Linux desktop better together.
