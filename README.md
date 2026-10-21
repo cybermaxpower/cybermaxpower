@@ -1,8 +1,10 @@
 # Hi there, I'm Matt! 👋 (@cybermaxpower)
 
-I'm an open-source developer based in the UK, dedicated to building lightweight utilities, smart desktop enhancements, and streamlined maintenance tools to elevate the Linux desktop experience. 
+I'm an open-source developer based in the UK, dedicated to building lightweight utilities, smart desktop enhancements, and streamlined maintenance tools to elevate the Linux desktop experience.
 
-> 💡 **My Philosophy:** I believe Linux tools should be fast, modular, and lightweight. No heavy Electron apps or massive dependencies—just pure Shell scripting and native desktop integration to get the job done efficiently.
+💡 **My Philosophy:** I believe Linux tools should be fast, modular, and lightweight. No heavy Electron apps or massive dependencies—just pure Shell scripting and native desktop integration to get the job done efficiently. 
+
+> **Note:** Fully "dogfooded"—these utilities are built out of personal necessity and run daily in my own setup.
 
 ---
 
